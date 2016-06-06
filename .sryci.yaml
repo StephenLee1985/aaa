@@ -1,7 +1,0 @@
-clone:
-  skip_verify: true
-build:
-  image: index.shurenyun.com/zhguo/golang:1.5.1
-  commands:
-    - echo 'done done'
-    - go build -o hello
