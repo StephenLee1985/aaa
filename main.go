@@ -11,3 +11,4 @@ func main() {
 		fmt.Println("no zuo no die")
 		time.Sleep(time.Second * 10)
 	}
+}
